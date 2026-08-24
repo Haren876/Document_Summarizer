@@ -1,0 +1,4 @@
+cd document-ai
+venv\Scripts\activate
+cd frontend
+python -m http.server 5500
